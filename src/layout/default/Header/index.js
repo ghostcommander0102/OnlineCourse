@@ -164,15 +164,12 @@ function Header() {
                                         </Media>
                                         <MediaText>
                                             <div className="lead-text">Wesley Burland</div>
-                                            <span className="sub-text">Owner &amp; Founder</span>
                                         </MediaText>
                                     </MediaGroup>
                                 </div>
                                 <div className="dropdown-content dropdown-content-x-lg py-3 border-bottom border-light">
                                     <LinkList>
                                         <LinkListItem to="/admin/profile"><Icon name="user"></Icon><span>My Profile</span></LinkListItem>
-                                        <LinkListItem to="/admin/profile"><Icon name="contact"></Icon><span>My Contacts</span></LinkListItem>
-                                        <LinkListItem to="/admin/profile-settings"><Icon name="setting-alt"></Icon><span>Account Settings</span></LinkListItem>
                                     </LinkList>
                                 </div>
                                 <div className="dropdown-content dropdown-content-x-lg py-3">
