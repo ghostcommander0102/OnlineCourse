@@ -7,7 +7,7 @@ import FileUpload from '../../components/Form/FileUpload';
 
 function QuillPage() {
   return (
-    <Layout title="Quill" content="container">
+    <Layout title="Online Course" content="container">
         <Block.Head page className="wide-md">
             <Block.HeadContent>
                 <Block.Title>Add News</Block.Title>
