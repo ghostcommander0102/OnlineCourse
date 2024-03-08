@@ -169,7 +169,7 @@ function Header() {
                                 </div>
                                 <div className="dropdown-content dropdown-content-x-lg py-3 border-bottom border-light">
                                     <LinkList>
-                                        <LinkListItem to="/admin/profile"><Icon name="user"></Icon><span>My Profile</span></LinkListItem>
+                                        <LinkListItem to="#"><Icon name="user"></Icon><span>My Profile</span></LinkListItem>
                                     </LinkList>
                                 </div>
                                 <div className="dropdown-content dropdown-content-x-lg py-3">
