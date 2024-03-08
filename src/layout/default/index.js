@@ -13,7 +13,7 @@ import LayoutProvider from './LayoutProvider'
 function Default({title,content,...props}) {
 
   useLayoutEffect(() => {
-    document.title = `${title} - NioBoard Dashboard Template`;
+    document.title = `Online Course - ${title}`;
   });
 
   return (

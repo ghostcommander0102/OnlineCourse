@@ -7,7 +7,7 @@ import { tableData, tableColumns } from '../../components/DataTable/TableData';
 
 function DataTablePage() {
   return (
-    <Layout title="Online Course" content="container">
+    <Layout title="News List" content="container">
       <Block>
         <Block.Head className="wide-md">
           <Block.HeadContent>

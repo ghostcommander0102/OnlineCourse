@@ -92,7 +92,7 @@ function Header() {
                                         <h5 className="title">Recent searches</h5>
                                     </div>
                                     <ul className="dropdown-list gap gy-2">
-                                        <li>
+                                        {/* <li>
                                             <MediaGroup>
                                                 <Media size="md" shape="circle" variant="light"><Icon name="clock"></Icon></Media>
                                                 <MediaText>
@@ -129,7 +129,7 @@ function Header() {
                                                     <Button size="md" variant="zoom" className="btn-icon me-n1"><Icon name="trash"></Icon></Button>
                                                 </MediaAction>
                                             </MediaGroup>
-                                        </li>
+                                        </li> */}
                                     </ul>
                                 </div>
                             </Dropdown.Menu>
